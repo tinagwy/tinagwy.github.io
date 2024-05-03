@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+output: html_document
+layout: standard # standard or wide-body
+show_title_as_headline: false
+---
+
+```{css, echo=FALSE}
+li {
+  line-height: 2;
+}
+```
+
+## Courses Taught at UNC Charlotte
+
+* STAT 3128 - Probability and Statistics for Engineers, Spring 2024
+* STAT 3110 - Applied Regression, Fall 2023 & Spring 2024
+
+## Courses Taught at Virginia Tech
+
+* STAT 3704 - Statistics for Engineering Applications, Spring 2018 & Fall 2019
+
+## Courses Taught as Teaching Assistant at Virginia Tech
+
+* STAT 2004 - Introductory Statistics, Spring 2017 (Recitation Leader)
+* STAT 3704 - Statistics for Engineering Applications, Fall 2016 (Teaching Assistant)
+* STAT 5114 - Statistical Inference, Spring 2019 (Teaching Assistant)
+* STAT 5314 - Monte Carlo Methods, Virginia Tech, Spring 2019 (Teaching Assistant)

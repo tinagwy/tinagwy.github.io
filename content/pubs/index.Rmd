@@ -1,0 +1,31 @@
+---
+title: "Publications"
+output: html_document
+layout: standard # standard or wide-body
+show_title_as_headline: false
+---
+```{css, echo=FALSE}
+li {
+  line-height: 2;
+}
+```
+
+## Peer-Reviewed Journal Articles (Leading statistician*)
+
+*	**Gao, W.**, Kim, I., Nam, W., Ren, X., Zhou, W., & Agah, M. (2024). Nonparametric Bayesian functional clustering with applications to racial disparities in breast cancer. *Statistical Analysis and Data Mining: The ASA Data Science Journal, 17*(1), e11657.
+* **Gao, W.**, Kim, I., & Park, E. (2023). Nonparametric Bayesian Functional Selection in 1-M Matched Case- Crossover Studies. *Statistical Methods in Medical Research, 32*(1), 133-150. [doi: 10.1177/09622802221133553](https://doi.org/10.1177/09622802221133553). Epub 2022 Oct 20. PMID: 36267024.
+* Wang, Y., Gao, S., & **`Gao, W*`**. (2021). Investigating dynamic relations between factual information and misinformation: Empirical studies of tweets related to prevention measures during COVID-19. *Journal of Contingencies and Crisis Management, 30*(4), 427-439. doi: [10.1111/1468-5973.12385](https://doi.org/10.1111/1468-5973.12385). PMCID: PMC8652553.
+* Kim, I., Shan, L., Lin, J., **Gao, W.**, Kim, B., & Mahmoud, H. (2020). Multiple and Multilevel Graphical Models. *Wiley Interdisciplinary Reviews: Computational Statistics, 12*(5), e1497.
+* Li, Z., **`Gao, W.*`**, & Li, X. (2020). Correlations of Permeability and Geological Characteristics based on Mercury Intrusion Data and Hierarchical Statistical Models: A Case Study. *Journal of Energy Resources Technology, 142*(12).
+* Liu, R., Liang, J., Cao, J., Zhang, K., **`Gao, W.*`**, Yang, L., Liang, J., & Yu, R. (2019). Understanding Mobile Users’ Privacy Expectations: A Recommendation-based Method through Crowdsourcing. *IEEE Transactions on Services Computing, 12*(2), 304-318. [doi: 10.1109/TSC.2016.2636285](https://doi.org/10.1109/TSC.2016.2636285).
+* Yu, R., Cao, J., Liu, R., **`Gao, W.*`**, Wang, X., & Liang, J. (2019). Participant Incentive Mechanism Towards Quality-Oriented Sensing: Understanding and Application. *ACM Transactions on Sensor Networks, 15*(2), 1-25. [doi: 10.1145/3303703](https://doi.org/10.1145/3303703).
+* Liu, R., Cao, J., Zhang, K., **`Gao, W.*`**, Liang, J., & Yang, L. (2018). When Privacy Meets Usability: Unobtrusive Privacy Permission Recommendation System for Mobile Apps Based on Crowdsourcing. *IEEE Transactions on Services Computing, 11*(5), 864-878. [doi: 10.1109/TSC.2016.2605089](https://doi.org/10.1109/TSC.2016.2605089).
+* Liu, R., Liang, J., **`Gao, W.*`**, & Yu, R. (2018). Privacy-based Recommendation Mechanism in Mobile Participatory Sensing Systems Using Crowdsourced Users’ Preferences. *Future Generation Computer Systems, 80*(C), 76-88. [doi: 10.1016/j.future.2017.08.055](https://doi.org/10.1016/j.future.2017.08.055).
+* Liu, R., Cao, J., VanSyckel, S., & **`Gao, W.*`** (2016). *PriMe: Human-centric Privacy Measurement Based on User Preferences Towards Data Sharing in Mobile Participatory Sensing Systems.* Paper presented at IEEE International Conference on Pervasive Computing and Communications (PerCom), Sydney, Australia, 14-19 March (pp. 1-8). IEEE. [doi: 10.1109/PERCOM.2016.7456518](https://doi.org/10.1109/PERCOM.2016.7456518) *(Acceptance rate ≈ 15%)*
+
+
+## Publications in Progress
+
+* **Gao, W.** & Kim, I. (2024). Informed Weighted Dirichlet Process Mixture Modeling for Functional Clustering.
+* **Gao, W.**, Miller, J., Klein, R., H$\ddot{a}$hnel, P. & Carter, S. (2024). BBQ: Better Base Qualities for Next-
+Generation Sequencing.

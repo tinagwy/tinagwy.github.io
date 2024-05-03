@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on homepage</title>
+    <link>http://localhost:4321/about/</link>
+    <description>Recent content in About Me on homepage</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:4321/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:4321/about/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/header/</guid>
+      <description>I am an Assistant Professor of Statistics in the Department of Mathematics and Statistics, and affiliated with School of Data Science, at UNC Charlotte. My research focuses on developing functional clustering methods through nonparametric Bayesian approach. I am interested in the interaction between statistics and deep learning. Besides methodology development, I have done collaborations in a variety of areas, including healthcare, environmental sciences, business intelligence and engineering.</description>
+    </item>
+  </channel>
+</rss>
