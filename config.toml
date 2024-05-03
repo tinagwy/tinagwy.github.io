@@ -1,4 +1,4 @@
-baseURL = "https://tinagwy.github.io/"
+baseURL = "https://tinagwy.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "homepage"
