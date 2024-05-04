@@ -1,7 +1,7 @@
 ---
 title: "Functional Clustering"
 subtitle: "with weighted Dirichlet process mixture modeling"
-excerpt: ""
+excerpt: "Clustering is an unsupervised learning method used to group similar items into categories based on their intrinsic characteristics, without relying on known labels. When the items are functions, such as curves or images, this clustering approach is termed as functional clustering."
 featured: true
 draft: false
 # layout options: single or single-sidebar
